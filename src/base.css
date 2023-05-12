@@ -113,18 +113,18 @@ div[class*="typeWindows-"]>div:first-child {
 }
 
 div[class*="typeWindows-"]>div[role="button"] {
-	height: 36px;
+	height: 30px;
 	width: 36px;
 }
 
 div[class*="typeWindows-"]::after {
-	content: 'Discord';
+	content: 'discord';
 	font-weight: 5000;
 	line-height: 31px;
 	color: var(--text-muted);
 	font-size: 14px;
 	position: absolute;
-	padding: 0 12px;
+	padding: 0 5px;
 	top: 0;
 	left: 0;
 	width: 100%;
