@@ -124,7 +124,7 @@ div[class*="typeWindows-"]::after {
 	color: var(--text-muted);
 	font-size: 14px;
 	position: absolute;
-	padding: 0 5px;
+	padding: 0 0px;
 	top: 0;
 	left: 0;
 	width: 100%;
